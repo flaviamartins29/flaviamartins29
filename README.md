@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **.NET, ASP.NET, EntityFramework, NODE.JS, REACT**
 
-- 🤝 I’m looking for help with **I'm looking for help with improving my skills**
+- 🤝 I’m looking for help with **improving my skills**
 
 - 💬 Ask me about **a bit of each**
 
