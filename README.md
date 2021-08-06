@@ -5,22 +5,12 @@
 
 - 🌱 I’m currently learning **.NET, ASP.NET, EntityFramework, NODE.JS, REACT**
 
-- 👯 I’m looking to collaborate on **all new technology**
-
 - 🤝 I’m looking for help with **I'm looking for help with improving my skills**
-
-- 👨‍💻 All of my projects are available at [https://github.com/flaviamartins29](https://github.com/flaviamartins29)
 
 - 💬 Ask me about **a bit of each**
 
-- 📫 How to reach me **flavia.martins1991@hotmail.com**
-
 - 📄 Know about my experiences [https://github.com/flaviamartins29/myResume/blob/main/CV%20FLAVIA%20MARTINS.PDF](https://github.com/flaviamartins29/myResume/blob/main/CV%20FLAVIA%20MARTINS.PDF)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/flavia-batista-martins-48b486116/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/flavia-batista-martins-48b486116/" height="30" width="40" /></a>
-</p>
 <div>
   <a href="https://github.com/flaviamartins29">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flaviamartins29&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -34,7 +24,7 @@
   <a href="https://www.linkedin.com/in/flavia-batista-martins-48b486116/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/flaviamartins29/flaviamartins29/blob/output/github-contribution-grid-snake.svg)
- flaviaMartins29
+ Flavia Martins
 </div>
 
 
